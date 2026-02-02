@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning japanese and also upgrade my technical skill <br>🎯 Goals: Developing skills and mindsets
+<p align="left">✨ Entry-level Software Developer <br>📚 Focusing on backend development & Japanese <br>🎯 Goals: Become a reliable developer with solid skills and long-term growth mindset
 
 ###
 
